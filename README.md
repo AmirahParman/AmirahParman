@@ -1,4 +1,4 @@
-Hi, I’m Amirah, a new coder who has just recently discovered the exciting world of programming. 
+Hi, I’m Amirah, a new coder who has just recently discovered interest in programming. 
 
 I’m greatly interested in web development and I’m currently learning how to create websites using HTML, CSS and JavaScript. 
 I’m looking to create more web projects and start networking with other developers and learn from their experiences. 
