@@ -4,8 +4,12 @@ My name is Amirah and I’m a Learning & Development personnel who has recently 
 
 
 I’m fascinated by web development and I’m currently learning how to build websites with HTML, CSS and JavaScript.
-Currently reading Javascript from Beginner to Professional by Laurence Lars Svekis, Maaike van Putten & Rob Percival 📖
+ 
+  
+📖 Javascript from Beginner to Professional by Laurence Lars Svekis, Maaike van Putten & Rob Percival </br>
 
+👨‍🏫Udemy: The Web Developer Bootcamp 2023
+  
 
 I am looking to expand my portfolio of web projects and connect with other developers to learn from their insights.
 
