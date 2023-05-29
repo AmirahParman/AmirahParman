@@ -1,14 +1,11 @@
 Hello!
 
-My name is Amirah and I’m a Learning & Development personnel who has recently developed a passion for programming.
+My name is Amirah and I’m a Learning & Development personnel who has recently developed a passion for programming. I’m fascinated by web development and I’m currently learning how to build websites with HTML, CSS and JavaScript.
 
+##Currently following:  
 
-I’m fascinated by web development and I’m currently learning how to build websites with HTML, CSS and JavaScript.
- 
-  
-📖 Javascript from Beginner to Professional by Laurence Lars Svekis, Maaike van Putten & Rob Percival </br>
-
-👨‍🏫Udemy: The Web Developer Bootcamp 2023
+*📖Javascript from Beginner to Professional by Laurence Lars Svekis, Maaike van Putten & Rob Percival  
+*👨‍Udemy: The Web Developer Bootcamp 2023
   
 
 I am looking to expand my portfolio of web projects and connect with other developers to learn from their insights.
