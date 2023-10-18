@@ -1,6 +1,6 @@
 Hello!
 
-My name is Amirah and I’m a Learning & Development personnel who has recently developed a passion for programming. I’m fascinated by web development and I’m learning how to build websites with HTML, CSS and JavaScript.
+My name is Amirah and I’m a Learning & Development personnel who has great interest in designing modules and recently developed a passion for programming. I’m fascinated by web development and I’m learning how to build websites with HTML, CSS and JavaScript.
 
 #### Currently following:  
 
